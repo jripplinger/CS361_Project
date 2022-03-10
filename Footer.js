@@ -8,7 +8,7 @@ function Footer() {
           <Container>
               <Row>
                   <Col className= "py-3 ml-auto">
-                        <div>Address:</div>
+                        <div><b>Address:</b></div>
                         <div>123 Eggs and Bacon Street</div>
                         <div>Breakfastville, CA 90012</div>
                   </Col>
@@ -19,9 +19,9 @@ function Footer() {
                         <div></div>
                   </Col>
                   <Col className= "py-3 mr-auto">
-                        <div>Phone:</div>
+                        <div><b>Phone:</b></div>
                         <PhoneNumber />
-                        <div>Email:</div>
+                        <div><b>Email:</b></div>
                         <div>fakebreakfastshop@gmail.com</div>
                   </Col>
               </Row>

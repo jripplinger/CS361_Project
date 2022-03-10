@@ -1,0 +1,19 @@
+table {
+    width: 50%;
+    border: solid 1px;
+}
+th {
+    color: black;
+    background-color: rgb(248, 193, 91);
+}
+
+h4 {
+    color: #2E86C1;
+    font-weight: bold;
+}
+
+input {
+    padding: 1em;
+    border-style: solid;
+    border-width: 1px;
+}
